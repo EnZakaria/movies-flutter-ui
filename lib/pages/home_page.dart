@@ -27,7 +27,7 @@ class _HomePageState extends State<HomePage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
                         Text(
-                          'Hello world',
+                          'Zakaria Anouar',
                           style: TextStyle(
                             color: Color(0xffFB2576),
                             fontSize: 28,
@@ -46,9 +46,9 @@ class _HomePageState extends State<HomePage> {
                     ),
                     ClipRRect(
                       child: Image.asset(
-                        'images/usermo.png',
-                        height: 60,
-                        width: 60,
+                        'images/user pro.png',
+                        height: 90,
+                        width: 90,
                       ),
                     ),
                   ],
